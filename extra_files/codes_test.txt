@@ -1,0 +1,34 @@
+97263 Z986    0 Angioplasty status                                           Angioplasty status
+97264 Z9861   1 Coronary angioplasty status                                  Coronary angioplasty status
+97265 Z9862   1 Peripheral vascular angioplasty status                       Peripheral vascular angioplasty status
+97266 Z988    0 Other specified postprocedural states                        Other specified postprocedural states
+97267 Z9881   0 Dental procedure status                                      Dental procedure status
+97268 Z98810  1 Dental sealant status                                        Dental sealant status
+97269 Z98811  1 Dental restoration status                                    Dental restoration status
+97270 Z98818  1 Other dental procedure status                                Other dental procedure status
+97271 Z9882   1 Breast implant status                                        Breast implant status
+97272 Z9883   1 Filtering (vitreous) bleb after glaucoma surgery status      Filtering (vitreous) bleb after glaucoma surgery status
+97273 Z9884   1 Bariatric surgery status                                     Bariatric surgery status
+97274 Z9885   1 Transplanted organ removal status                            Transplanted organ removal status
+97275 Z9886   1 Personal history of breast implant removal                   Personal history of breast implant removal
+97276 Z9887   0 Personal history of in utero procedure                       Personal history of in utero procedure
+97277 Z98870  1 Personal history of in utero procedure during pregnancy      Personal history of in utero procedure during pregnancy
+97278 Z98871  1 Personal history of in utero procedure while a fetus         Personal history of in utero procedure while a fetus
+97279 Z9889   0 Other specified postprocedural states                        Other specified postprocedural states
+97280 Z98890  1 Other specified postprocedural states                        Other specified postprocedural states
+97281 Z98891  1 History of uterine scar from previous surgery                History of uterine scar from previous surgery
+97282 Z99     0 Dependence on enabling machines and devices, NEC             Dependence on enabling machines and devices, not elsewhere classified
+97283 Z990    1 Dependence on aspirator                                      Dependence on aspirator
+97284 Z991    0 Dependence on respirator                                     Dependence on respirator
+97285 Z9911   1 Dependence on respirator [ventilator] status                 Dependence on respirator [ventilator] status
+97286 Z9912   1 Encounter for respirator dependence during power failure     Encounter for respirator [ventilator] dependence during power failure
+97287 Z992    1 Dependence on renal dialysis                                 Dependence on renal dialysis
+97288 Z993    1 Dependence on wheelchair                                     Dependence on wheelchair
+97289 Z998    0 Dependence on other enabling machines and devices            Dependence on other enabling machines and devices
+97290 Z9981   1 Dependence on supplemental oxygen                            Dependence on supplemental oxygen
+97291 Z9989   1 Dependence on other enabling machines and devices            Dependence on other enabling machines and devices
+97292 U07     0 Emergency use of U07                                         Emergency use of U07
+97293 U070    1 Vaping-related disorder                                      Vaping-related disorder
+97294 U071    1 COVID-19                                                     COVID-19
+97295 U09     0 Post COVID-19 condition                                      Post COVID-19 condition
+97296 U099    1 Post COVID-19 condition, unspecified                         Post COVID-19 condition, unspecified
