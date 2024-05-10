@@ -1,5 +1,6 @@
-file_path = 'extra_files\\codes_test.txt'
+file_path = ''
 #file_path = 'extra_files\\icd10cm_order_2024.txt'
+#file_path = 'extra_files\\codes_test.txt'
 from .models import MainCode, SubCode
 previous = None
 
